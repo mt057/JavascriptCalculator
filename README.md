@@ -5,5 +5,8 @@ The JavaScript Calculator is a simple web-based calculator that performs basic a
 
 The HTML file contains the structure of the calculator, including the display screen and buttons for numbers and operations. The CSS file provides styling to make the calculator visually appealing and user-friendly. The JavaScript file handles the logic for capturing button clicks, performing calculations, and updating the display screen accordingly.
 
+#Output
+
+![m](https://github.com/mt057/JavascriptCalculator/assets/82698555/81e4c8fa-bfeb-4f95-ac06-047c8e522567)
 
 ![Screenshot 2023-05-13 142116](https://github.com/mt057/JavascriptCalculator/assets/82698555/6311f5b2-d7ae-4a01-b568-5da2047347f8)
